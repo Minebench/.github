@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "#moep IRC channel on irc.spi.gt"
+    url: "https://kiwiirc.com/client/irc.spi.gt/#moep"
+    about: Phoenix616's public IRC channel to discuss any of his projects
+  - name: SpigotMC PM
+    url: https://www.spigotmc.org/conversations/add?to=Phoenix616&title=Question
+    about: Ask Phoenix616 questions privately
+  - name: Minebench.de Discord
+    url: https://minebench.de/discord
+    about: If you can speak German then feel free to join our Discord!
